@@ -81,7 +81,7 @@ pip install -r requirements.txt
 Usage
 To use the SMS spam detector, follow these steps:
 1.	Clone the repository:
-	git clone https://github.com/Panchadip-128/sms-spam-detector.git
+	git clone https://github.com/Panchadip-128/SMS-Classifier--Spam-Detection-Model-.git
 
 2.      Install the required packages:
         pip install -r requirements.txt
