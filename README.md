@@ -2,7 +2,7 @@
 The SMS Spam Detector project utilizes machine learning to create an effective model for detecting spam messages. It begins with preprocessing the SMS dataset, including handling encoding, removing duplicates, and text preprocessing. Exploratory data analysis provides insights into the dataset's characteristics.
 Modeling involves comparing various algorithms like Naive Bayes, Logistic Regression, and SVM. The Voting Classifier, combining SVM, Multinomial Naive Bayes, and Extra Trees Classifier, emerged as the top performer, achieving an accuracy of 98.16% and precision of 99.17%.
 
-SMS Spam Detector:
+**SMS Spam Detector**:
 ------------------
 
 Overview
