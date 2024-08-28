@@ -108,7 +108,7 @@ The best performing model, the Voting Classifier, achieved the following perform
 •	Precision: 99.17%
 
 Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue. Thank You!
+Contributions are welcome! If you have any suggestions or feel any scope of improvements, please create a pull request or open an issue. Thank You!
 
 
 
