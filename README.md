@@ -77,10 +77,6 @@ Each model was evaluated using the following metrics:
 •	Accuracy
 •	Precision
 •	Confusion Matrix
-Best Performing Model
-The Voting Classifier with SVM, Multinomial Naive Bayes, and Extra Trees Classifier achieved the highest performance with:
-•	Accuracy: 98.16%
-•	Precision: 99.17%
 
 
 Installation
@@ -104,8 +100,8 @@ To use the SMS spam detector, follow these steps:
 
 Results
 The best performing model, the Voting Classifier, achieved the following performance metrics on the test dataset:
-•	Accuracy: 98.16%
-•	Precision: 99.17%
+•	Accuracy: 94.16%
+•	Precision: 92.17%
 
 Contributing
 Contributions are welcome! If you have any suggestions or feel any scope of improvements, please create a pull request or open an issue. Thank You!
